@@ -34,8 +34,11 @@ ul#submenu_body li a {
 
 ul#submenu_body li {
         margin-bottom: 5px;
-        
+
     }
+a#megaman{
+  background-color: yellow
+}
 
 ul#submenu_body li a:hover {
             background-color: aqua;
@@ -51,7 +54,7 @@ div#content {
     float:left;
     background-color:white;
     border:double;
-    
+
 }
 div#content_header {
     display:block;
@@ -59,11 +62,11 @@ div#content_header {
     font-size:2em;
     font-weight:900;
     text-align:center;
-   
+
 }
 
 div#content_body {
-  
+
 }
 div.nobiru {
     animation:nobiru 1s ease -2s infinite alternate;
@@ -71,7 +74,7 @@ div.nobiru {
     text-align:center;
 }
 div.nobirugya {
-    
+
     animation: nobirugya 1s ease -2s infinite alternate;
     font-size: 3em;
     text-align: center;
@@ -84,7 +87,7 @@ div.nobirugya a:hover {
         text-decoration: none;
         color:black;
         background-color:aqua
-        
+
     }
 .btn {
     width:80%;
@@ -149,13 +152,13 @@ div#footer {
     margin:28% 10% 0% 10%;
     background-color:lightpink;
     border:dashed;
-    
+
 }
 .footer_title {
     text-align:center;
     font-weight:900;
     text-decoration:underline;
-   
+
 }
 /*====================================================================
 	other
@@ -236,15 +239,15 @@ div#welcometext {
 
 @keyframes welcometext {
     0%,50%,100%{
-        
+
         position:absolute;
         top:50%;
         color:aqua
-        
+
     }
 
     25%,75% {
-        
+
         position:absolute;
         top:53%;
         color: aqua
@@ -267,7 +270,7 @@ div#welcometext {
         width: 100%;
         background-color: blue;
         color: aqua;
-       
+
     }
 
     100% {
