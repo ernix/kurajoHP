@@ -24,7 +24,7 @@ div#submenu_header {
 }
 ul#submenu_body {
     display:block;
-    list-style:none;
+    /*list-style:none;*/
     text-align:left;
 }
 ul#submenu_body li a {
