@@ -187,6 +187,15 @@ div#title {
     background-color:yellow;
 }
 
+.info {
+    border:groove;
+    background-color:sandybrown
+}
+.infoh {
+    text-align:center;
+    font-weight:900;
+    font-size:1.5em
+}
 /*====================================================================
 	welcome
 ======================================================================*/
