@@ -1,0 +1,15 @@
+
+div#galltitle {
+    font-size:3em;
+    color:orangered;
+    text-align:center
+}
+.back {
+    background-color:pink;
+}
+.text {
+    text-align:center;
+}
+table#gall tr td {
+   vertical-align:central;
+}

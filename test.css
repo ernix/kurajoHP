@@ -164,10 +164,10 @@ div#footer {
 	other
 ======================================================================*/
 
-div#big {
-	font-size:9em;font-weight:900}
+.big {
+	font-size:2em;font-weight:900}
 
-div#blink {
+.blink {
 	animation: blink 1.0s step-end infinite alternate;
 }
 
@@ -179,15 +179,12 @@ div#title {
 }
 
 
-div#back {
+.back {
     background-color:red
 }
 
-div#mark {
+.mark {
     background-color:yellow;
-    font-size:4em;
-    font-weight:900;
-    text-align:center;
 }
 
 /*====================================================================
